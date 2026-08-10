@@ -1,0 +1,1 @@
+[![Trigger Private Repo Daily Fetch](https://github.com/FelizFiona/trigger-cron/actions/workflows/cron.yml/badge.svg?branch=main)](https://github.com/FelizFiona/trigger-cron/actions/workflows/cron.yml)
